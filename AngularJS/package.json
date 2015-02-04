@@ -1,0 +1,21 @@
+{
+  "name": "TestingAngularJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "karma": "^0.12.31",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "scripts": {
+    "test": "karma start",
+    "start": "node server.js"
+  },
+  "author": "Maurice de Beijer",
+  "license": "ISC"
+}
