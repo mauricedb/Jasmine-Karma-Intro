@@ -2,3 +2,4 @@ Simple/node_modules/
 AngularJS/node_modules/
 *.pptx
 Simple/jasmine-standalone-2.1.3/
+*.log
