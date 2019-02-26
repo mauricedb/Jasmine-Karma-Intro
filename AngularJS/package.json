@@ -4,13 +4,13 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "~3.4.8",
-    "underscore": "~1.5.2"
+    "express": "~4.16.4",
+    "underscore": "~1.9.1"
   },
   "devDependencies": {
-    "karma": "^0.12.31",
-    "karma-jasmine": "^0.3.5",
-    "karma-phantomjs-launcher": "^0.1.4"
+    "karma": "^4.0.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-phantomjs-launcher": "^1.0.4"
   },
   "scripts": {
     "test": "karma start",
